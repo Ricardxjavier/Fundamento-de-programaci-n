@@ -1,6 +1,0 @@
-Capital solicitado: 1000.00
-Tasa de interés: 10.00
-Tiempo para pagar: 2 años
-Número de cuotas al año: 13
-Interés total: 20000.00
-Cuota anual: 500.00
